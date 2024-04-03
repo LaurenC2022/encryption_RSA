@@ -10,7 +10,7 @@ To fix the bug, I would need to calculate another, positive modular multiplicati
 
 This repo uses a Main function. 
 I have comments and doc strings in each function to better explain what is happening in my implementation of RSA cryptography below.
-When using this program as top leve, the user will input a message and the application will produce the encoded list of characters. 
+When using this program as top level, the user will input a message and the application will produce the encoded list of characters. 
 To check that the message can be decoded, a call to the decoding function is made and the decoded message is outputted to the command line.
 
 By calling the main function I have created the program entry point. This project is a python module I have written. 
