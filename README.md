@@ -35,8 +35,7 @@ I learned all of these topics for the first time while working on this project a
 
 ### Continued development
 
-The next step would be to improve how keys are generated. I do not handle negative keys well. 
-To fix the bug, I would need to calculate another, positive modular multiplicative inverse. 
+The next step would be to improve how keys are generated. I do not handle negative keys well. To fix the bug, I would need to calculate another, positive modular multiplicative inverse. To do this, I should remember: a and b are modularly congruent if and only if m divides a-b. (page 609 of BOOK: Discrete Mathematics and Its Application by Kenneth H. Rosen) 
 
 I could also add pictures and more examples to this readme file. 
 
